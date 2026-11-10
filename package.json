@@ -1,0 +1,23 @@
+{
+  "name": "ayaan-zara-nikah-collection",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port 5175",
+    "build": "vite build",
+    "preview": "vite preview --port 5175"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.4",
+    "framer-motion": "^14.9.1",
+    "lucide-react": "^1.68.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "tailwindcss": "^4.3.4",
+    "vite": "^8.3.5"
+  }
+}
